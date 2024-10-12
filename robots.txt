@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cajifuveteve.pages.dev/sitemap.xml
